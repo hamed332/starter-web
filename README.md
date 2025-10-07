@@ -7,7 +7,7 @@ The main purpose
 ## Deployment
 Deployemnt is an automatic process
 ## How To Continue
-
+This repo is to be pulled
 
 
 
