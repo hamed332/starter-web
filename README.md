@@ -7,3 +7,8 @@ The main purpose
 ## Deployment
 Deployemnt is an automatic process
 ## How To Continue
+
+
+
+
+Copyright Thing
