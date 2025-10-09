@@ -11,4 +11,4 @@ This repo is to be pulled
 
 
 
-Copyright Thing
+Copyright Thing. All rights reserved
